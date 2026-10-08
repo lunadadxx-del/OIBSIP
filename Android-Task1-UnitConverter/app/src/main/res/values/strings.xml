@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="app_tagline">Convert length, weight, temperature and volume</string>
+    <string name="label_category">Category</string>
+    <string name="label_from">From</string>
+    <string name="label_to">To</string>
+    <string name="label_value">Value</string>
+    <string name="hint_value">Enter value</string>
+    <string name="btn_convert">Convert</string>
+    <string name="label_result">Result</string>
+    <string name="result_placeholder">Result will appear here</string>
+    <string name="toast_invalid">Please enter a valid number</string>
+    <string name="error_absolute_zero">Below absolute zero (-273.15 C)</string>
+</resources>
