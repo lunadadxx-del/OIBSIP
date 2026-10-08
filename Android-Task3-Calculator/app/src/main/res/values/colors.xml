@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#1565C0</color>
+
+    <!-- Screen -->
+    <color name="background">#FAFAFA</color>
+    <color name="display_bg">#212121</color>
+    <color name="display_text">#FFFFFF</color>
+    <color name="expression_text">#B0BEC5</color>
+
+    <!-- Buttons -->
+    <color name="btn_number_bg">#F5F5F5</color>
+    <color name="btn_number_text">#212121</color>
+    <color name="btn_operator_bg">#1565C0</color>
+    <color name="btn_operator_text">#FFFFFF</color>
+    <color name="btn_clear_bg">#D32F2F</color>
+    <color name="btn_util_bg">#616161</color>
+</resources>
